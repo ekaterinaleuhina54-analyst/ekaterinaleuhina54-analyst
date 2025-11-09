@@ -12,6 +12,13 @@
 <br><br>
 ## Контакты
 <sub><img src="https://na41km.ru/uploads/Telegram-logo.png" alt="tg" width="33"></sub>[kateleuhina](https://t.me/kateleuhina)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="https://dveri-lite54.ru/userfiles/editor/large/2/18775_2605826.png" alt="mail" width="20"></sub>&nbsp;&nbsp;ekaterina.leuhina@mail.ru
+<br><br>
+## Мои проекты
+| Название | Описание | Стек |
+|---|---|---|
+| [Анализ результатов A/B-теста для дейтингового приложения](https://github.com/ekaterinaleuhina54-analyst/analysis_of_the_ab_test) | Провела предобработку данных, проверила корректность групп (A/A-тест), рассчитала метрики (ARPU, ARPPU, конверсию) и применила статистические тесты для оценки гипотез. | *Python, Pandas, NumPy, SciPy, Seaborn, Matplotlib, Jupyter Notebook, Git, математическая статистика* |
+| [Оценка эффективности работы маркетплейса](https://github.com/ekaterinaleuhina54-analyst/product_analytics_project) | Провела когортный анализ, оценила product/market fit, рассчитала ключевые метрики (GMV, MAU, ARPU, Churn Rate) и приоритизировала гипотезы роста с применением фреймворка ICE. | *Python, Pandas, NumPy, Seaborn, Matplotlib, Git, когортный анализ, математическая статистика, фреймворк ICE* |
+| Создание [дашборда «Финансовые показатели»](https://datalens.yandex/14sofl9geqvgm) | Собрала требования к дашборду (задачи, аудитория, ключевые метрики, срезы данных), построила визуализации, оформила дашборд, настроила сквозную фильтрацию. | *DataLens, фреймворк Dashboard Canvas* |
 
 <!--
 **ekaterinaleuhina54-analyst/ekaterinaleuhina54-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
